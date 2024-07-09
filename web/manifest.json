@@ -1,6 +1,6 @@
 {
-    "name": "basketball",
-    "short_name": "basketball",
+    "name": "pacman_hero",
+    "short_name": "pacman_hero",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",

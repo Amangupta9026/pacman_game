@@ -1,4 +1,4 @@
-# basketball
+# pacman_hero
 
 A new Flutter project.
 
